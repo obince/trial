@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Number 1: " + num1);
         System.out.println("Number 2: " + num2);
         System.out.println("Multiplication: " + multiply(num1, num2));
+        System.out.println("Summation: " + sum(num1, num2));
     }
 
     public static int multiply(int num1, int num2){
