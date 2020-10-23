@@ -7,6 +7,7 @@ public class Main {
         int num2 = 500;
         System.out.println("Number 1: " + num1);
         System.out.println("Number 2: " + num2);
+        System.out.println("Multiplication: " + multiply(num1, num2));
     }
 
     public static int multiply(int num1, int num2){
