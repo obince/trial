@@ -22,6 +22,6 @@ public class Main {
     }
 
     public static void printHello(int name){
-        System.out.println("Hello!");
+        System.out.println("Hello!" + name);
     }
 }
